@@ -9,8 +9,7 @@ Silly simple Node.js app to traverse and return file names from a directory and 
 
 ## Usage
 
-Run `npm start --dir <the folder>` or `npm start -d <the folder>`. You can pipe the results whenever.
-
+Run `node src/app.js --dir <the folder>` or `node src/app.js -d <the folder>`. You can pipe the results, business as usual.
 
 ## To-dos
 
